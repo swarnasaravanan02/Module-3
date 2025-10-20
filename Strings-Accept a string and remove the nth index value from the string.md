@@ -15,6 +15,7 @@ To write a Python program that accepts a string and removes the character at a s
 8. Print the final result.
 
 ## 💻 Program
+```
 string = input()
 n = 3
 
@@ -22,7 +23,7 @@ def remove(string):
     for i in range(len(string)):
         if i != n:
             print(string[i], end="")
-
+```
 ## Output
 <img width="593" height="202" alt="image" src="https://github.com/user-attachments/assets/08c7b378-0334-4c29-8115-f7727ed9de86" />
 
