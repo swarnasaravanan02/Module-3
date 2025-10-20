@@ -17,5 +17,6 @@ print("8" in tuplex)
 ```
 ## Output
 <img width="357" height="165" alt="image" src="https://github.com/user-attachments/assets/37175660-6655-4ffc-bc5a-1d2f23bb7c9a" />
+
 ## Result
 Thus, the program has been executed successfully.
